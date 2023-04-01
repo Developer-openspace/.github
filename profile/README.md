@@ -2,7 +2,7 @@
 <img 
     src="https://avatars.githubusercontent.com/u/128293126?s=200&v=4" 
     align="center" 
-    style="border-radius:10px; width:400vw; height:40vw;" 
+    style="border-radius:10px; width:100vw; height:40vw;" 
     alt="Develop-openspace's avatar"
 />
 
@@ -14,10 +14,12 @@ Be free to fork and contribute in an projects, we focus on opensource project an
 > Check our repository, all are well documented.
 
 
-Check our repositories, [@Repositories](https://github.com/orgs/Developer-openspace/repositories).
+Check our repositories, 
 
-> Raise an issue if there is something faulty.
+[@Repositories](https://github.com/orgs/Developer-openspace/repositories).
 
 > Contribute on the discussion board.
 
-Join our discussions, [@Discussions](https://github.com/orgs/Developer-openspace/discussions).
+Join our discussions, 
+
+[@Discussions](https://github.com/orgs/Developer-openspace/discussions).
