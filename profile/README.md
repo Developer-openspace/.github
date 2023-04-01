@@ -1,6 +1,6 @@
 # Developer-openspace
 <img 
-    src="./images/desk_top.jpg" 
+    src="./images/desk_top.jpg?raw=true" 
     align="center" 
     style="border-radius:10px; width:100vw; height:40vw;" 
     alt="Develop-openspace's avatar"
