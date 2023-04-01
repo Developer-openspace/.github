@@ -1,6 +1,6 @@
 # Developer-openspace
 <img 
-    src="https://avatars.githubusercontent.com/u/128293126?s=200&v=4" 
+    src="./images/desk_top.jpg" 
     align="center" 
     style="border-radius:10px; width:100vw; height:40vw;" 
     alt="Develop-openspace's avatar"
@@ -23,3 +23,9 @@ Check our repositories,
 Join our discussions, 
 
 [@Discussions](https://github.com/orgs/Developer-openspace/discussions).
+
+> People
+
+Find our Contributors,
+
+[@People](https://github.com/orgs/Developer-openspace/people)
