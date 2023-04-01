@@ -2,7 +2,7 @@
 <img 
     src="https://avatars.githubusercontent.com/u/128293126?s=200&v=4" 
     align="center" 
-    style="border-radius:10px; width:400px;" 
+    style="border-radius:10px; width:400vw; height:40vw;" 
     alt="Develop-openspace's avatar"
 />
 
